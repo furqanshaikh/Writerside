@@ -10,7 +10,7 @@ permissions:
   pages: write
 
 env:
-  INSTANCE: 'Writerside/mydocs'
+  INSTANCE: 'workspace/mydocs'
   ARTIFACT: 'webHelpMYDOCS2-all.zip'
   DOCKER_VERSION: '242.21870'
   ALGOLIA_ARTIFACT: 'algolia-indexes-MYDOCS.zip'
