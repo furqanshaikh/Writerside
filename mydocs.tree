@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="mydocs"
+                 name="Documents"
+                 start-page="Services-Standard-Deployment.md">
+
+    <toc-element topic="Services-Standard-Deployment.md">
+        <toc-element topic="Utilizing-OWASP-Dependency-Check-within-the-Services-Standard-Build-SSB.md"/>
+        <toc-element topic="Overview-of-the-IdentityIQ-Accelerator-Pack.md"/>
+        <toc-element topic="Deploying-IdentityIQ-Using-the-Services-Standard-Build-SSB.md"/>
+        <toc-element topic="Overview-of-the-Services-Standard-Build-SSB.md"/>
+        <toc-element topic="Build-Configuration-in-the-SSB.md"/>
+        <toc-element topic="Valid-Values-for-Birthright-Assignment-Type.md"/>
+        <toc-element topic="Resolving-Connector-Deployment-Issues-in-IdentityIQ.md"/>
+        <toc-element topic="Default-Rule-for-Trigger-Custom-Rule-in-SPCONF-Joiner-Mappings.md"/>
+        <toc-element topic="Dynamically-Changing-Email-Templates-with-the-Enhanced-Email-Notifier.md"/>
+        <toc-element topic="Mock-Integration-Executor.md"/>
+        <toc-element topic="Advantages-of-the-Services-Standard-Framework-SSF.md"/>
+        <toc-element topic="Configuring-a-Joiner-Workflow-in-the-SSF.md"/>
+    </toc-element>
+    <toc-element topic="IdentityIQ-Misc.md">
+        <toc-element topic="Techniques-for-Generating-IT-Roles-Rapidly-in-IdentityIQ.md"/>
+        <toc-element topic="Risk-Calculations.md"/>
+        <toc-element topic="four-default-types-of-roles.md"/>
+        <toc-element topic="Purpose-of-the-IdentityIQ-Provisioning-Broker.md"/>
+        <toc-element topic="Three-Types-of-IdentityIQ-Provisioning-Policies.md"/>
+        <toc-element topic="Three-Primary-Ways-to-Record-Provisioning-Requests-in-IdentityIQ.md"/>
+        <toc-element topic="Credential-Cycling-Configuration-Types.md"/>
+        <toc-element topic="KeyStore-and-Password-File.md"/>
+        <toc-element topic="IdentityIQ-Properties.md"/>
+    </toc-element>
+</instance-profile>
